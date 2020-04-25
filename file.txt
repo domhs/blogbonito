@@ -1,4 +1,4 @@
 primer commit KAB-XYZ
 cambio desde github
-bienvenidos al blog 2.0
-master sigue avanzando
+welcome al blog 2.0
+
